@@ -17,5 +17,13 @@
   "bugs": {
     "url": "https://github.com/Aycan-Kurt/graphql-prisma-demo/issues"
   },
-  "homepage": "https://github.com/Aycan-Kurt/graphql-prisma-demo#readme"
+  "homepage": "https://github.com/Aycan-Kurt/graphql-prisma-demo#readme",
+  "dependencies": {
+    "@apollo/server": "^5.4.0",
+    "@prisma/client": "^7.4.2",
+    "graphql": "^16.13.1"
+  },
+  "devDependencies": {
+    "prisma": "^7.4.2"
+  }
 }
